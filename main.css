@@ -17,10 +17,11 @@ button{
     cursor: pointer;
     font-weight: 400;
     padding: .5em 1em;
+    font-size: .875rem;
 }
 
 .container{
-    margin: 1em auto;
+    margin: 2em auto;
     padding: .5em;
     width: 90%;
     max-width: 400px;
@@ -31,6 +32,8 @@ button{
 input {
     border-radius: 5px;
     font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
     margin: 0;
 }
 
